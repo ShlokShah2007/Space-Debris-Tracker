@@ -1,0 +1,17 @@
+# Binaries and executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Debug and IDE folders
+.vscode/
+.vs/
+*.pdb
+*.ilk
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
